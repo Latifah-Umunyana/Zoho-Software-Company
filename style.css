@@ -207,6 +207,9 @@
     border-radius: 55px;
     background-color: red;
   }
+  .space-landing{
+    margin-left: 30px;
+  }
   
   .notification strong {
     display: block;
@@ -471,7 +474,7 @@
       }
     }
 
-    /* css for reviews-section */
+  
  #reviews{
     background-color:rgb(16, 5, 27) ;
     height: 100vh;
@@ -482,7 +485,10 @@
       margin-left: 460px;
       margin-top: 80px;
       }
-
+  .space{
+    margin-left: 43px;
+ 
+  }
   #footer p{
       color: white;
       margin-left: 510px;
